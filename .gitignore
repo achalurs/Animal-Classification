@@ -1,0 +1,22 @@
+# IDE
+.idea/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+
+# Dataset (too large)
+animal_images/
+
+# Model files (optional – large)
+animal_classifier_model.h5
+animal_classifier_model.pkl
+
+# Pickle / encoders
+*.pkl
+
+# CSV (raw data, optional)
+animals.csv
