@@ -12,7 +12,7 @@ __pycache__/
 animal_images/
 
 # Model files (optional – large)
-animal_classifier_model.h5
+#animal_classifier_model.h5
 animal_classifier_model.pkl
 
 # Pickle / encoders
